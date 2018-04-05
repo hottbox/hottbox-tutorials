@@ -4,10 +4,21 @@ hottbox-tutorials
 This repository contains a series of tutorials on how to use
 `hottbox <https://github.com/hottbox/hottbox>`_
 
-Table of contents
-=================
-1. `Fundamental representations of N-dimensional arrays <http://example.com/>`_
-2. `Fundamental tensor decompositions <http://example.com/>`_
+Requirements
+============
+In order to run and play around with these tutorials, you will need to have ``HOTTBOX`` installed. Simpy run:
+::
+
+    pip install hottbox
+
+    git clone https://github.com/hottbox/hottbox-tutorials
+
+
+Table of contents:
+==================
+1. `Tensor class for N-dimensional arrays and its functionality <https://github.com/hottbox/hottbox-tutorials/blob/master/1_N-dimensional_arrays_and_Tensor_class.ipynb>`_.
+2. `Efficient representation of N-dimensional arrays: TensorCPD, TensorTKD, TensorTT <http://example.com/>`_.
+3. `Fundamental tensor decompositions <http://example.com/>`_.
 
 Data used in these tutorials
 ============================
