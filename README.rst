@@ -17,8 +17,8 @@ In order to run and play around with these tutorials, you will need to have ``HO
 Table of contents:
 ==================
 1. `Tensor class for N-dimensional arrays and its functionality <https://github.com/hottbox/hottbox-tutorials/blob/master/1_N-dimensional_arrays_and_Tensor_class.ipynb>`_.
-2. `Efficient representation of N-dimensional arrays: TensorCPD, TensorTKD, TensorTT <http://example.com/>`_.
-3. `Fundamental tensor decompositions <http://example.com/>`_.
+2. `Efficient representation of N-dimensional arrays: TensorCPD, TensorTKD, TensorTT <https://github.com/hottbox/hottbox-tutorials/blob/master/2_Efficient_representations_of_tensors.ipynb>`_.
+3. `Fundamental tensor decompositions <https://github.com/hottbox/hottbox-tutorials/blob/master/3_Fundamental_tensor_decompositions.ipynb>`_.
 
 Data used in these tutorials
 ============================
