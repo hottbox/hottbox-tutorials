@@ -1,4 +1,4 @@
-hottbox-tutorials
+HOTTBOX tutorials
 =================
 
 This repository contains a series of tutorials on how to use
@@ -6,12 +6,21 @@ This repository contains a series of tutorials on how to use
 
 Requirements
 ============
-In order to run and play around with these tutorials, you will need to have ``HOTTBOX`` installed. Simpy run:
-::
 
-    pip install hottbox
+In order to get started you need to clone this repository and install
+packages specified in ``requirements.txt``::
 
     git clone https://github.com/hottbox/hottbox-tutorials
+
+    cd hottbox-tutorials
+
+    pip install -r requirements.txt
+
+.. note::
+    If you are on Unix and have anaconda installed, you can execute ``bootstrap_venv.sh``.
+    This script will prepare a virtual environment for these tutorials.
+
+
 
 
 Table of contents:
