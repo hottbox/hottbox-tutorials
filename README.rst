@@ -28,6 +28,8 @@ Table of contents:
 1. `Tensor class for N-dimensional arrays and its functionality <https://github.com/hottbox/hottbox-tutorials/blob/master/1_N-dimensional_arrays_and_Tensor_class.ipynb>`_.
 2. `Efficient representation of N-dimensional arrays: TensorCPD, TensorTKD, TensorTT <https://github.com/hottbox/hottbox-tutorials/blob/master/2_Efficient_representations_of_tensors.ipynb>`_.
 3. `Fundamental tensor decompositions <https://github.com/hottbox/hottbox-tutorials/blob/master/3_Fundamental_tensor_decompositions.ipynb>`_.
+4. `Ecosystem of Tensor class and transformations <https://github.com/hottbox/hottbox-tutorials/blob/master/4_Ecosystem_of_Tensor_class.ipynb>_`
+5. `Tensor meta information and pandas integration <https://github.com/hottbox/hottbox-tutorials/blob/master/5_Tensor_meta_information_and_pandas_integration.ipynb>_`
 
 Data used in these tutorials
 ============================
